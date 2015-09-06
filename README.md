@@ -6,6 +6,6 @@ Some of my favorite errors:
 	^
 ReferenceError: fs is not defined //because I didn't require fs in the handlers file
 
-3) No request handler found for /show //because I didn't give the handler a "/show key"
+3) No request handler found for /show //because I didn't give the handler a "/show" key
 
 
